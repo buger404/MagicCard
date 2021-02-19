@@ -1,0 +1,6 @@
+E:\Projects\MagicCards\MagicCards\obj\Debug\MagicCards.csprojAssemblyReference.cache
+E:\Projects\MagicCards\MagicCards\bin\Debug\MagicCards.exe.config
+E:\Projects\MagicCards\MagicCards\bin\Debug\MagicCards.exe
+E:\Projects\MagicCards\MagicCards\bin\Debug\MagicCards.pdb
+E:\Projects\MagicCards\MagicCards\obj\Debug\MagicCards.exe
+E:\Projects\MagicCards\MagicCards\obj\Debug\MagicCards.pdb
